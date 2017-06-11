@@ -4,7 +4,7 @@
   
   <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
   
-   <title>Le Stock - Home</title>
+   <title>Le Stock</title>
     
   
 <meta property="og:title" content="Le Stock" />
